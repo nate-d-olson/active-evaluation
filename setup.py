@@ -11,7 +11,7 @@ setuptools.setup(
         'pandas',
         'pytest',
         'scipy',
-        'sklearn',
+        'scikit-learn',
         'm2r',
         'sphinx',
         'flake8',
